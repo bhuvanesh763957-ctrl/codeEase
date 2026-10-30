@@ -1,0 +1,6 @@
+{
+  "name": "CodeEase",
+  "description": "Learn to Code. Play. Level Up. Get Certified. Interactive coding platform with sequential levels, quizzes, online compiler, streaks, and verifiable certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
